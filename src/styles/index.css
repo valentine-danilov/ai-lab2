@@ -1,0 +1,82 @@
+.container {
+    max-width: 900px;
+    background-color: transparent !important;
+}
+
+.jumbotron {
+    margin-top: 50px;
+    background-color: transparent;
+}
+
+.select {
+    margin-top: 250px;
+    max-width: 400px;
+}
+
+.result,
+.kb {
+    margin-top: 150px;
+}
+
+.kb {
+    margin-bottom: 150px;
+}
+
+.btn {
+    margin: 2px;
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.border-top-gray {
+    border-top-color: #adb5bd;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.lh-condensed {
+    line-height: 1.25;
+}
+
+html {
+    color: #404E67;
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+}
+
+.custom-button {
+    float: left;
+    height: 30px;
+    font-weight: bold;
+    font-size: 12px;
+    text-shadow: none;
+    min-width: 120px;
+    margin-top: 5px;
+    margin-right: 5px;
+    border-radius: 50px;
+    line-height: 13px;
+}
+
+.custom-textarea {
+    max-width: 500px;
+    width: 500px;
+    height: 400px;
+    resize: none;
+    pointer-events: none;
+}
+
+.text-success {
+    color: green
+}
+
+.text-failure {
+    color: red;
+}

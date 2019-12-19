@@ -1,0 +1,34 @@
+[{
+        "tempo": 99.38401442307692,
+        "beats": 46,
+        "chroma_stft": 0.40912446164067845,
+        "rmse": 0.1794496476650238,
+        "spectral_centroid": 3262.545498075311,
+        "spectral_bandwidth": 3046.9022878113224,
+        "rolloff": 6828.042045097233,
+        "zero_crossing_rate": 0.13586614744582043,
+        "label": "pop"
+    },
+    {
+        "tempo": 117.45383522727273,
+        "beats": 58,
+        "chroma_stft": 0.43591076070512846,
+        "rmse": 0.11222764849662781,
+        "spectral_centroid": 2321.185733328073,
+        "spectral_bandwidth": 2118.9852819018124,
+        "rolloff": 4702.063233933582,
+        "zero_crossing_rate": 0.12819952713815788,
+        "label": "rock"
+    },
+    {
+        "tempo": 92.28515625,
+        "beats": 44,
+        "chroma_stft": 0.22373830597598895,
+        "rmse": 0.04474571347236633,
+        "spectral_centroid": 2192.798091164326,
+        "spectral_bandwidth": 1911.9860367064261,
+        "rolloff": 4066.4670772965846,
+        "zero_crossing_rate": 0.1524378537393576,
+        "label": "classical"
+    }
+]
